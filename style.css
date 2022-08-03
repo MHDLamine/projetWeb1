@@ -37,4 +37,5 @@ section
     margin: 5px;
     display: flex;
     justify-content: center;
+    border-radius: 6px;
 }
