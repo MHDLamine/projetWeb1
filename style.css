@@ -13,8 +13,7 @@ h4{
 p
 {
     transform: rotate(90deg);
-   
-    font-size: 20px;
+    font-size: 25px;
     font-weight: bold;
     display: flex;
     align-items: center;
@@ -45,10 +44,8 @@ img
     width: auto;
     justify-content: center;
 }
-.bloc{
-    background-color: rgb(231, 236, 230);
-}
-.decobloc{
+
+.bloc.decobloc{
     background-color: black;
 }
 .bloc
@@ -61,6 +58,7 @@ img
     display: flex;
     justify-content: center;
     border-radius: 6px;
+    background-color: rgb(231, 236, 230);
 }
 
 /******************FOR MEDIA******************/
