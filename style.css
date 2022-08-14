@@ -34,9 +34,7 @@ img
     border-radius: 50%;
     cursor: pointer;
 }
-.decoP{
-    color: white;
-}
+
 .container
 {
     display: flex;
@@ -45,9 +43,6 @@ img
     justify-content: center;
 }
 
-.bloc.decobloc{
-    background-color: black;
-}
 .bloc
 {
     width: 610px;
